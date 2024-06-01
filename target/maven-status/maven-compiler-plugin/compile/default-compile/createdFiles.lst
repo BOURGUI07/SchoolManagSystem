@@ -1,0 +1,14 @@
+domain\Teacher.class
+domain\Course.class
+domain\Degree.class
+domain\Registrable.class
+domain\Student.class
+domain\RegistrableType.class
+logic\SchoolManagement.class
+domain\RequestSubject.class
+logic\GradeStudent.class
+domain\Gender.class
+domain\Assignement.class
+domain\Enroll.class
+domain\StudentRequest.class
+domain\Drop.class
