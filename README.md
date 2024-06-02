@@ -34,5 +34,6 @@ This project is a console-based application developed in Core Java, designed to 
 
 - **Java SE (Standard Edition)**: Core language for developing the application.
 - **JUnit Framework**: For unit testing of the application's components.
+- **Object-Oriented Programming.
 - **Console I/O**: For interaction with the user via the console.
 - **Collections Framework**: Utilized for managing student, teacher, course, and grade information efficiently.
